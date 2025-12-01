@@ -1,0 +1,733 @@
+{
+  "JempolFiraun": {
+    "username": "JempolFiraun",
+    "password": "JempolFiraun",
+    "namaLengkap": "Bagas Aditama",
+    "email": "aditamabagas@gamil.com",
+    "saldo": 12022313830.00,
+    "portfolio": {},
+    "riwayatTransaksi": [
+      {
+        "idTransaksi": "TRX1764257193373",
+        "jenis": "BUY",
+        "kodeSaham": "BBCA",
+        "namaSaham": "Bank Central Asia",
+        "jumlah": 12000,
+        "harga": 10328.66,
+        "total": 123943920.00,
+        "waktu": "2025-11-27T22:26:33.376109300"
+      },
+      {
+        "idTransaksi": "TRX1764257230587",
+        "jenis": "BUY",
+        "kodeSaham": "ADRO",
+        "namaSaham": "Adaro Energy",
+        "jumlah": 2000,
+        "harga": 2886.99,
+        "total": 5773980.00,
+        "waktu": "2025-11-27T22:27:10.587886300"
+      },
+      {
+        "idTransaksi": "TRX1764257241737",
+        "jenis": "BUY",
+        "kodeSaham": "ADRO",
+        "namaSaham": "Adaro Energy",
+        "jumlah": 9000,
+        "harga": 2801.54,
+        "total": 25213860.00,
+        "waktu": "2025-11-27T22:27:21.737966600"
+      },
+      {
+        "idTransaksi": "TRX1764257262177",
+        "jenis": "BUY",
+        "kodeSaham": "BBRI",
+        "namaSaham": "Bank Rakyat Indonesia",
+        "jumlah": 7000,
+        "harga": 3622.89,
+        "total": 25360230.00,
+        "waktu": "2025-11-27T22:27:42.177883300"
+      },
+      {
+        "idTransaksi": "TRX1764257271986",
+        "jenis": "BUY",
+        "kodeSaham": "BBRI",
+        "namaSaham": "Bank Rakyat Indonesia",
+        "jumlah": 7000,
+        "harga": 3592.82,
+        "total": 25149740.00,
+        "waktu": "2025-11-27T22:27:51.986526"
+      },
+      {
+        "idTransaksi": "TRX1764257289270",
+        "jenis": "BUY",
+        "kodeSaham": "TLKM",
+        "namaSaham": "Telekomunikasi Indonesia",
+        "jumlah": 10000,
+        "harga": 3149.92,
+        "total": 31499200.00,
+        "waktu": "2025-11-27T22:28:09.270686600"
+      },
+      {
+        "idTransaksi": "TRX1764257387720",
+        "jenis": "SELL",
+        "kodeSaham": "BBCA",
+        "namaSaham": "Bank Central Asia",
+        "jumlah": 12000,
+        "harga": 10323.78,
+        "total": 123885360.00,
+        "waktu": "2025-11-27T22:29:47.720691600"
+      },
+      {
+        "idTransaksi": "TRX1764257454285",
+        "jenis": "SELL",
+        "kodeSaham": "BBRI",
+        "namaSaham": "Bank Rakyat Indonesia",
+        "jumlah": 14000,
+        "harga": 3100.59,
+        "total": 43408260.00,
+        "waktu": "2025-11-27T22:30:54.285307300"
+      },
+      {
+        "idTransaksi": "TRX1764257514266",
+        "jenis": "BUY",
+        "kodeSaham": "ADRO",
+        "namaSaham": "Adaro Energy",
+        "jumlah": 50000,
+        "harga": 3562.95,
+        "total": 178147500.00,
+        "waktu": "2025-11-27T22:31:54.266736600"
+      },
+      {
+        "idTransaksi": "TRX1764257570774",
+        "jenis": "SELL",
+        "kodeSaham": "ADRO",
+        "namaSaham": "Adaro Energy",
+        "jumlah": 61000,
+        "harga": 3606.24,
+        "total": 219980640.00,
+        "waktu": "2025-11-27T22:32:50.774310500"
+      },
+      {
+        "idTransaksi": "TRX1764257620997",
+        "jenis": "BUY",
+        "kodeSaham": "ADRO",
+        "namaSaham": "Adaro Energy",
+        "jumlah": 55000,
+        "harga": 3506.02,
+        "total": 192831100.00,
+        "waktu": "2025-11-27T22:33:40.997735300"
+      },
+      {
+        "idTransaksi": "TRX1764257684919",
+        "jenis": "SELL",
+        "kodeSaham": "ADRO",
+        "namaSaham": "Adaro Energy",
+        "jumlah": 55000,
+        "harga": 3477.84,
+        "total": 191281200.00,
+        "waktu": "2025-11-27T22:34:44.919671500"
+      },
+      {
+        "idTransaksi": "TRX1764258679931",
+        "jenis": "SELL",
+        "kodeSaham": "TLKM",
+        "namaSaham": "Telekomunikasi Indonesia",
+        "jumlah": 10000,
+        "harga": 3133.46,
+        "total": 31334600.00,
+        "waktu": "2025-11-27T22:51:19.956222900"
+      },
+      {
+        "idTransaksi": "TRX1764258705454",
+        "jenis": "BUY",
+        "kodeSaham": "BSDE",
+        "namaSaham": "Bumi Serpong Damai",
+        "jumlah": 100000,
+        "harga": 996.81,
+        "total": 99681000.00,
+        "waktu": "2025-11-27T22:51:45.454129500"
+      },
+      {
+        "idTransaksi": "TRX1764258763414",
+        "jenis": "BUY",
+        "kodeSaham": "ADRO",
+        "namaSaham": "Adaro Energy",
+        "jumlah": 45000,
+        "harga": 3231.78,
+        "total": 145430100.00,
+        "waktu": "2025-11-27T22:52:43.414435300"
+      },
+      {
+        "idTransaksi": "TRX1764258810052",
+        "jenis": "SELL",
+        "kodeSaham": "BSDE",
+        "namaSaham": "Bumi Serpong Damai",
+        "jumlah": 100000,
+        "harga": 1183.54,
+        "total": 118354000.00,
+        "waktu": "2025-11-27T22:53:30.052632600"
+      },
+      {
+        "idTransaksi": "TRX1764258864664",
+        "jenis": "BUY",
+        "kodeSaham": "PGAS",
+        "namaSaham": "Perusahaan Gas Negara",
+        "jumlah": 20000,
+        "harga": 1206.19,
+        "total": 24123800.00,
+        "waktu": "2025-11-27T22:54:24.664575400"
+      },
+      {
+        "idTransaksi": "TRX1764258911467",
+        "jenis": "BUY",
+        "kodeSaham": "BBCA",
+        "namaSaham": "Bank Central Asia",
+        "jumlah": 10000,
+        "harga": 7718.43,
+        "total": 77184300.00,
+        "waktu": "2025-11-27T22:55:11.467210600"
+      },
+      {
+        "idTransaksi": "TRX1764258997617",
+        "jenis": "SELL",
+        "kodeSaham": "BBCA",
+        "namaSaham": "Bank Central Asia",
+        "jumlah": 10000,
+        "harga": 9347.81,
+        "total": 93478100.00,
+        "waktu": "2025-11-27T22:56:37.643966200"
+      },
+      {
+        "idTransaksi": "TRX1764259017573",
+        "jenis": "SELL",
+        "kodeSaham": "PGAS",
+        "namaSaham": "Perusahaan Gas Negara",
+        "jumlah": 20000,
+        "harga": 1617.14,
+        "total": 32342800.00,
+        "waktu": "2025-11-27T22:56:57.573719200"
+      },
+      {
+        "idTransaksi": "TRX1764259054872",
+        "jenis": "BUY",
+        "kodeSaham": "BSDE",
+        "namaSaham": "Bumi Serpong Damai",
+        "jumlah": 50000,
+        "harga": 1002.17,
+        "total": 50108500.00,
+        "waktu": "2025-11-27T22:57:34.872114700"
+      },
+      {
+        "idTransaksi": "TRX1764259071905",
+        "jenis": "BUY",
+        "kodeSaham": "BSDE",
+        "namaSaham": "Bumi Serpong Damai",
+        "jumlah": 70000,
+        "harga": 977.27,
+        "total": 68408900.00,
+        "waktu": "2025-11-27T22:57:51.905624"
+      },
+      {
+        "idTransaksi": "TRX1764259109288",
+        "jenis": "SELL",
+        "kodeSaham": "BSDE",
+        "namaSaham": "Bumi Serpong Damai",
+        "jumlah": 120000,
+        "harga": 1078.22,
+        "total": 129386400.00,
+        "waktu": "2025-11-27T22:58:29.314528900"
+      },
+      {
+        "idTransaksi": "TRX1764259161054",
+        "jenis": "BUY",
+        "kodeSaham": "TLKM",
+        "namaSaham": "Telekomunikasi Indonesia",
+        "jumlah": 50000,
+        "harga": 2899.03,
+        "total": 144951500.00,
+        "waktu": "2025-11-27T22:59:21.054304600"
+      },
+      {
+        "idTransaksi": "TRX1764259187921",
+        "jenis": "SELL",
+        "kodeSaham": "ADRO",
+        "namaSaham": "Adaro Energy",
+        "jumlah": 45000,
+        "harga": 2691.73,
+        "total": 121127850.00,
+        "waktu": "2025-11-27T22:59:47.921875600"
+      },
+      {
+        "idTransaksi": "TRX1764348209419",
+        "jenis": "BUY",
+        "kodeSaham": "TLKM",
+        "namaSaham": "Telekomunikasi Indonesia",
+        "jumlah": 3000,
+        "harga": 3328.43,
+        "total": 9985290.00,
+        "waktu": "2025-11-28T23:43:29.447820900"
+      },
+      {
+        "idTransaksi": "TRX1764348467834",
+        "jenis": "BUY",
+        "kodeSaham": "PGAS",
+        "namaSaham": "Perusahaan Gas Negara",
+        "jumlah": 10000,
+        "harga": 1608.78,
+        "total": 16087800.00,
+        "waktu": "2025-11-28T23:47:47.862504"
+      },
+      {
+        "idTransaksi": "TRX1764348631131",
+        "jenis": "SELL",
+        "kodeSaham": "TLKM",
+        "namaSaham": "Telekomunikasi Indonesia",
+        "jumlah": 53000,
+        "harga": 3344.71,
+        "total": 177269630.00,
+        "waktu": "2025-11-28T23:50:31.427129900"
+      },
+      {
+        "idTransaksi": "TRX1764348725697",
+        "jenis": "BUY",
+        "kodeSaham": "UNVR",
+        "namaSaham": "Unilever Indonesia",
+        "jumlah": 40000,
+        "harga": 3784.29,
+        "total": 151371600.00,
+        "waktu": "2025-11-28T23:52:05.697935800"
+      },
+      {
+        "idTransaksi": "TRX1764348826756",
+        "jenis": "BUY",
+        "kodeSaham": "TLKM",
+        "namaSaham": "Telekomunikasi Indonesia",
+        "jumlah": 20000,
+        "harga": 2634.60,
+        "total": 52692000.00,
+        "waktu": "2025-11-28T23:53:46.756526300"
+      },
+      {
+        "idTransaksi": "TRX1764348842815",
+        "jenis": "BUY",
+        "kodeSaham": "BBCA",
+        "namaSaham": "Bank Central Asia",
+        "jumlah": 5000,
+        "harga": 7328.12,
+        "total": 36640600.00,
+        "waktu": "2025-11-28T23:54:02.816504500"
+      },
+      {
+        "idTransaksi": "TRX1764348874015",
+        "jenis": "BUY",
+        "kodeSaham": "UNVR",
+        "namaSaham": "Unilever Indonesia",
+        "jumlah": 5000,
+        "harga": 3433.86,
+        "total": 17169300.00,
+        "waktu": "2025-11-28T23:54:34.015013400"
+      },
+      {
+        "idTransaksi": "TRX1764348902950",
+        "jenis": "BUY",
+        "kodeSaham": "TLKM",
+        "namaSaham": "Telekomunikasi Indonesia",
+        "jumlah": 10000,
+        "harga": 2676.25,
+        "total": 26762500.00,
+        "waktu": "2025-11-28T23:55:02.950959900"
+      },
+      {
+        "idTransaksi": "TRX1764348939753",
+        "jenis": "SELL",
+        "kodeSaham": "UNVR",
+        "namaSaham": "Unilever Indonesia",
+        "jumlah": 45000,
+        "harga": 4008.05,
+        "total": 180362250.00,
+        "waktu": "2025-11-28T23:55:39.781686"
+      },
+      {
+        "idTransaksi": "TRX1764348954556",
+        "jenis": "SELL",
+        "kodeSaham": "TLKM",
+        "namaSaham": "Telekomunikasi Indonesia",
+        "jumlah": 30000,
+        "harga": 3158.99,
+        "total": 94769700.00,
+        "waktu": "2025-11-28T23:55:54.556084100"
+      },
+      {
+        "idTransaksi": "TRX1764348978539",
+        "jenis": "SELL",
+        "kodeSaham": "BBCA",
+        "namaSaham": "Bank Central Asia",
+        "jumlah": 5000,
+        "harga": 8046.09,
+        "total": 40230450.00,
+        "waktu": "2025-11-28T23:56:18.539948600"
+      },
+      {
+        "idTransaksi": "TRX1764349016139",
+        "jenis": "BUY",
+        "kodeSaham": "GOTO",
+        "namaSaham": "GoTo Gojek Tokopedia",
+        "jumlah": 100000,
+        "harga": 1062.16,
+        "total": 106216000.00,
+        "waktu": "2025-11-28T23:56:56.139401800"
+      },
+      {
+        "idTransaksi": "TRX1764349160154",
+        "jenis": "BUY",
+        "kodeSaham": "TLKM",
+        "namaSaham": "Telekomunikasi Indonesia",
+        "jumlah": 50000,
+        "harga": 2606.02,
+        "total": 130301000.00,
+        "waktu": "2025-11-28T23:59:20.154072900"
+      },
+      {
+        "idTransaksi": "TRX1764349183302",
+        "jenis": "BUY",
+        "kodeSaham": "TLKM",
+        "namaSaham": "Telekomunikasi Indonesia",
+        "jumlah": 10000,
+        "harga": 2508.26,
+        "total": 25082600.00,
+        "waktu": "2025-11-28T23:59:43.302563200"
+      },
+      {
+        "idTransaksi": "TRX1764349193114",
+        "jenis": "BUY",
+        "kodeSaham": "TLKM",
+        "namaSaham": "Telekomunikasi Indonesia",
+        "jumlah": 20000,
+        "harga": 2433.76,
+        "total": 48675200.00,
+        "waktu": "2025-11-28T23:59:53.114374"
+      },
+      {
+        "idTransaksi": "TRX1764349234666",
+        "jenis": "SELL",
+        "kodeSaham": "TLKM",
+        "namaSaham": "Telekomunikasi Indonesia",
+        "jumlah": 80000,
+        "harga": 3179.84,
+        "total": 254387200.00,
+        "waktu": "2025-11-29T00:00:34.709216"
+      },
+      {
+        "idTransaksi": "TRX1764349249275",
+        "jenis": "SELL",
+        "kodeSaham": "GOTO",
+        "namaSaham": "GoTo Gojek Tokopedia",
+        "jumlah": 100000,
+        "harga": 1308.12,
+        "total": 130812000.00,
+        "waktu": "2025-11-29T00:00:49.275260"
+      },
+      {
+        "idTransaksi": "TRX1764434659360",
+        "jenis": "BUY",
+        "kodeSaham": "TLKM",
+        "namaSaham": "Telekomunikasi Indonesia",
+        "jumlah": 20000,
+        "harga": 2474.60,
+        "total": 49492000.00,
+        "waktu": "2025-11-29T23:44:19.362397800"
+      },
+      {
+        "idTransaksi": "TRX1764434701567",
+        "jenis": "BUY",
+        "kodeSaham": "TLKM",
+        "namaSaham": "Telekomunikasi Indonesia",
+        "jumlah": 80000,
+        "harga": 2412.69,
+        "total": 193015200.00,
+        "waktu": "2025-11-29T23:45:01.567367400"
+      },
+      {
+        "idTransaksi": "TRX1764434764087",
+        "jenis": "BUY",
+        "kodeSaham": "TLKM",
+        "namaSaham": "Telekomunikasi Indonesia",
+        "jumlah": 60000,
+        "harga": 2242.41,
+        "total": 134544600.00,
+        "waktu": "2025-11-29T23:46:04.087340900"
+      },
+      {
+        "idTransaksi": "TRX1764434875776",
+        "jenis": "SELL",
+        "kodeSaham": "TLKM",
+        "namaSaham": "Telekomunikasi Indonesia",
+        "jumlah": 160000,
+        "harga": 3368.87,
+        "total": 539019200.00,
+        "waktu": "2025-11-29T23:47:55.778899300"
+      },
+      {
+        "idTransaksi": "TRX1764434904481",
+        "jenis": "SELL",
+        "kodeSaham": "PGAS",
+        "namaSaham": "Perusahaan Gas Negara",
+        "jumlah": 10000,
+        "harga": 1619.92,
+        "total": 16199200.00,
+        "waktu": "2025-11-29T23:48:24.481199100"
+      },
+      {
+        "idTransaksi": "TRX1764434997048",
+        "jenis": "BUY",
+        "kodeSaham": "BBCA",
+        "namaSaham": "Bank Central Asia",
+        "jumlah": 70000,
+        "harga": 7042.55,
+        "total": 492978500.00,
+        "waktu": "2025-11-29T23:49:57.048691300"
+      },
+      {
+        "idTransaksi": "TRX1764435040911",
+        "jenis": "BUY",
+        "kodeSaham": "BBCA",
+        "namaSaham": "Bank Central Asia",
+        "jumlah": 10000,
+        "harga": 7179.82,
+        "total": 71798200.00,
+        "waktu": "2025-11-29T23:50:40.911406800"
+      },
+      {
+        "idTransaksi": "TRX1764435133760",
+        "jenis": "SELL",
+        "kodeSaham": "BBCA",
+        "namaSaham": "Bank Central Asia",
+        "jumlah": 80000,
+        "harga": 8819.01,
+        "total": 705520800.00,
+        "waktu": "2025-11-29T23:52:13.761579200"
+      },
+      {
+        "idTransaksi": "TRX1764435272535",
+        "jenis": "BUY",
+        "kodeSaham": "PGAS",
+        "namaSaham": "Perusahaan Gas Negara",
+        "jumlah": 560000,
+        "harga": 1208.78,
+        "total": 676916800.00,
+        "waktu": "2025-11-29T23:54:32.535463800"
+      },
+      {
+        "idTransaksi": "TRX1764435503872",
+        "jenis": "SELL",
+        "kodeSaham": "PGAS",
+        "namaSaham": "Perusahaan Gas Negara",
+        "jumlah": 560000,
+        "harga": 1613.21,
+        "total": 903397600.00,
+        "waktu": "2025-11-29T23:58:23.874557800"
+      },
+      {
+        "idTransaksi": "TRX1764435639440",
+        "jenis": "BUY",
+        "kodeSaham": "BBCA",
+        "namaSaham": "Bank Central Asia",
+        "jumlah": 140000,
+        "harga": 6683.47,
+        "total": 935685800.00,
+        "waktu": "2025-11-30T00:00:39.440994200"
+      },
+      {
+        "idTransaksi": "TRX1764435959863",
+        "jenis": "SELL",
+        "kodeSaham": "BBCA",
+        "namaSaham": "Bank Central Asia",
+        "jumlah": 140000,
+        "harga": 8974.87,
+        "total": 1256481800.00,
+        "waktu": "2025-11-30T00:05:59.865137700"
+      },
+      {
+        "idTransaksi": "TRX1764436077648",
+        "jenis": "BUY",
+        "kodeSaham": "UNVR",
+        "namaSaham": "Unilever Indonesia",
+        "jumlah": 360000,
+        "harga": 3440.19,
+        "total": 1238468400.00,
+        "waktu": "2025-11-30T00:07:57.648666500"
+      },
+      {
+        "idTransaksi": "TRX1764522303809",
+        "jenis": "SELL",
+        "kodeSaham": "UNVR",
+        "namaSaham": "Unilever Indonesia",
+        "jumlah": 360000,
+        "harga": 4437.09,
+        "total": 1597352400.00,
+        "waktu": "2025-12-01T00:05:03.882038300"
+      },
+      {
+        "idTransaksi": "TRX1764552172616",
+        "jenis": "BUY",
+        "kodeSaham": "ADRO",
+        "namaSaham": "Adaro Energy",
+        "jumlah": 780000,
+        "harga": 2016.45,
+        "total": 1572831000.00,
+        "waktu": "2025-12-01T08:22:52.618210100"
+      },
+      {
+        "idTransaksi": "TRX1764553551619",
+        "jenis": "SELL",
+        "kodeSaham": "ADRO",
+        "namaSaham": "Adaro Energy",
+        "jumlah": 780000,
+        "harga": 2914.70,
+        "total": 2273466000.00,
+        "waktu": "2025-12-01T08:45:51.621406700"
+      },
+      {
+        "idTransaksi": "TRX1764565647620",
+        "jenis": "BUY",
+        "kodeSaham": "ADRO",
+        "namaSaham": "Adaro Energy",
+        "jumlah": 900000,
+        "harga": 2389.07,
+        "total": 2150163000.00,
+        "waktu": "2025-12-01T12:07:27.622481200"
+      },
+      {
+        "idTransaksi": "TRX1764566894523",
+        "jenis": "SELL",
+        "kodeSaham": "ADRO",
+        "namaSaham": "Adaro Energy",
+        "jumlah": 900000,
+        "harga": 2727.52,
+        "total": 2454768000.00,
+        "waktu": "2025-12-01T12:28:14.524552500"
+      },
+      {
+        "idTransaksi": "TRX1764566923632",
+        "jenis": "BUY",
+        "kodeSaham": "GOTO",
+        "namaSaham": "GoTo Gojek Tokopedia",
+        "jumlah": 600000,
+        "harga": 1049.60,
+        "total": 629760000.00,
+        "waktu": "2025-12-01T12:28:43.632359500"
+      },
+      {
+        "idTransaksi": "TRX1764567025859",
+        "jenis": "BUY",
+        "kodeSaham": "BBRI",
+        "namaSaham": "Bank Rakyat Indonesia",
+        "jumlah": 460000,
+        "harga": 4171.77,
+        "total": 1919014200.00,
+        "waktu": "2025-12-01T12:30:25.860774900"
+      },
+      {
+        "idTransaksi": "TRX1764568096803",
+        "jenis": "SELL",
+        "kodeSaham": "GOTO",
+        "namaSaham": "GoTo Gojek Tokopedia",
+        "jumlah": 600000,
+        "harga": 1115.07,
+        "total": 669042000.00,
+        "waktu": "2025-12-01T12:48:16.804007600"
+      },
+      {
+        "idTransaksi": "TRX1764568108740",
+        "jenis": "SELL",
+        "kodeSaham": "BBRI",
+        "namaSaham": "Bank Rakyat Indonesia",
+        "jumlah": 460000,
+        "harga": 4439.46,
+        "total": 2042151600.00,
+        "waktu": "2025-12-01T12:48:28.740239100"
+      },
+      {
+        "idTransaksi": "TRX1764569172710",
+        "jenis": "BUY",
+        "kodeSaham": "BBRI",
+        "namaSaham": "Bank Rakyat Indonesia",
+        "jumlah": 800000,
+        "harga": 3374.64,
+        "total": 2699712000.00,
+        "waktu": "2025-12-01T13:06:12.710294900"
+      },
+      {
+        "idTransaksi": "TRX1764570495134",
+        "jenis": "SELL",
+        "kodeSaham": "BBRI",
+        "namaSaham": "Bank Rakyat Indonesia",
+        "jumlah": 800000,
+        "harga": 3748.27,
+        "total": 2998616000.00,
+        "waktu": "2025-12-01T13:28:15.136255900"
+      },
+      {
+        "idTransaksi": "TRX1764570528956",
+        "jenis": "BUY",
+        "kodeSaham": "BUKA",
+        "namaSaham": "Bukalapak",
+        "jumlah": 4845000,
+        "harga": 636.78,
+        "total": 3085199100.00,
+        "waktu": "2025-12-01T13:28:48.956166600"
+      },
+      {
+        "idTransaksi": "TRX1764575505658",
+        "jenis": "SELL",
+        "kodeSaham": "BUKA",
+        "namaSaham": "Bukalapak",
+        "jumlah": 4845000,
+        "harga": 1505.91,
+        "total": 7296133950.00,
+        "waktu": "2025-12-01T14:51:45.661030700"
+      },
+      {
+        "idTransaksi": "TRX1764575560298",
+        "jenis": "BUY",
+        "kodeSaham": "TLKM",
+        "namaSaham": "Telekomunikasi Indonesia",
+        "jumlah": 2976300,
+        "harga": 2451.41,
+        "total": 7296131583.00,
+        "waktu": "2025-12-01T14:52:40.298616200"
+      },
+      {
+        "idTransaksi": "TRX1764579213764",
+        "jenis": "SELL",
+        "kodeSaham": "TLKM",
+        "namaSaham": "Telekomunikasi Indonesia",
+        "jumlah": 2976300,
+        "harga": 3255.21,
+        "total": 9688481523.00,
+        "waktu": "2025-12-01T15:53:33.766180300"
+      },
+      {
+        "idTransaksi": "TRX1764579465029",
+        "jenis": "BUY",
+        "kodeSaham": "BSDE",
+        "namaSaham": "Bumi Serpong Damai",
+        "jumlah": 11244400,
+        "harga": 861.63,
+        "total": 9688512372.00,
+        "waktu": "2025-12-01T15:57:45.029401500"
+      },
+      {
+        "idTransaksi": "TRX1764579649100",
+        "jenis": "SELL",
+        "kodeSaham": "BSDE",
+        "namaSaham": "Bumi Serpong Damai",
+        "jumlah": 11244400,
+        "harga": 1069.18,
+        "total": 12022287592.00,
+        "waktu": "2025-12-01T16:00:49.101854"
+      }
+    ],
+    "tanggalBuat": "2025-11-27T22:24:54.895331200"
+  }
+}
