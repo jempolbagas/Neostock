@@ -4,8 +4,23 @@
     "password": "JempolFiraun",
     "namaLengkap": "Bagas Aditama",
     "email": "aditamabagas@gamil.com",
-    "saldo": 12022313830.00,
-    "portfolio": {},
+    "saldo": 4559932066.00,
+    "portfolio": {
+      "BBRI": {
+        "kodeSaham": "BBRI",
+        "namaSaham": "Bank Rakyat Indonesia",
+        "jumlah": 677800,
+        "hargaBeli": 4282.50,
+        "totalModal": 2902678500.00
+      },
+      "BSDE": {
+        "kodeSaham": "BSDE",
+        "namaSaham": "Bumi Serpong Damai",
+        "jumlah": 3981300,
+        "hargaBeli": 1145.28,
+        "totalModal": 4559703264.00
+      }
+    },
     "riwayatTransaksi": [
       {
         "idTransaksi": "TRX1764257193373",
@@ -726,6 +741,26 @@
         "harga": 1069.18,
         "total": 12022287592.00,
         "waktu": "2025-12-01T16:00:49.101854"
+      },
+      {
+        "idTransaksi": "TRX1764601399863",
+        "jenis": "BUY",
+        "kodeSaham": "BBRI",
+        "namaSaham": "Bank Rakyat Indonesia",
+        "jumlah": 677800,
+        "harga": 4282.50,
+        "total": 2902678500.00,
+        "waktu": "2025-12-01T22:03:19.864174300"
+      },
+      {
+        "idTransaksi": "TRX1764601426086",
+        "jenis": "BUY",
+        "kodeSaham": "BSDE",
+        "namaSaham": "Bumi Serpong Damai",
+        "jumlah": 3981300,
+        "harga": 1145.28,
+        "total": 4559703264.00,
+        "waktu": "2025-12-01T22:03:46.086560300"
       }
     ],
     "tanggalBuat": "2025-11-27T22:24:54.895331200"
